@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.vscode/
+.idea/
+eduguard.db
+ml/model.pkl
+*.log
+.db_seeded
